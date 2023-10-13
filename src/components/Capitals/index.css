@@ -1,0 +1,16 @@
+.container1 {
+  background-color: #93c5fd;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: 'Roboto';
+  padding: 20px;
+  text-align: center;
+}
+.capitalCountry {
+  background-color: white;
+  border-radius: 8px;
+  text-align: center;
+  width: 300px;
+  height: 400px;
+}
